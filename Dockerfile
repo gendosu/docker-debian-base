@@ -2,7 +2,7 @@
 #
 # VERSION               0.0.1
 
-FROM     debian:7.8
+FROM     debian:8.0
 MAINTAINER Gen Takahashi "gendosu@gmail.com"
 
 RUN apt-get update
